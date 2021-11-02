@@ -1,0 +1,19 @@
+{
+  "empCredentials": [
+    {
+      "id": 1,
+      "userName": "Akash",
+      "password": "password"
+    },
+    {
+      "id": 2,
+      "userName": "Siddhesh",
+      "password": "passwd"
+    },
+    {
+      "id": 3,
+      "userName": "Karan",
+      "password": "passswd"
+    }
+  ]
+}
